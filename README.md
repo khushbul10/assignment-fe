@@ -2,6 +2,10 @@
 
 This repository contains a small dashboard application built with Next.js 16 (App Router), TypeScript, and Tailwind CSS. The app demonstrates a lightweight Mini CRM for leads and a Product Catalog with product-lead linking, responsive layout, and modern UX patterns (dark mode, off-canvas sidebar, skeleton loaders).
 
+## Live demo
+
+Check out the live deployment: https://assignment-fe-gules.vercel.app
+
 ## Features
 
 ### General
