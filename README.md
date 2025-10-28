@@ -13,7 +13,7 @@ Check out the live deployment: https://assignment-fe-gules.vercel.app
 - Slide-out mobile sidebar (accessible off-canvas menu) with overlay and multiple close actions.
 - Light / dark theme support (manual toggle + respect system preference via `next-themes`).
 - Optimized data fetching and caching with TanStack Query (React Query).
-- Optimized fonts using `next/font` (Lato).
+- Optimized fonts using `next/font` (Poppins).
 - Instant loading states using Next.js `loading.tsx` and skeleton loaders.
 
 ### Leads (Mini CRM)
@@ -42,7 +42,7 @@ Check out the live deployment: https://assignment-fe-gules.vercel.app
 - State: React Context (links) + local `useState` for UI
 - Theming: `next-themes`
 - Icons: `lucide-react`
-- Fonts: `next/font` (Lato)
+- Fonts: `next/font` (Poppins)
 
 ## Project structure (app router)
 
@@ -66,7 +66,7 @@ app/
 Clone the repository (replace with the real repo URL):
 
 ```
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/khushbul10/assignment-fe
 cd your-repo-name
 ```
 
@@ -101,4 +101,3 @@ If you'd like, I can also:
 - Add a short development checklist and run scripts to `package.json`.
 - Add example env variables and a sample .env.local for demo APIs.
 
-License: MIT (add a LICENSE file if you want a formal license)
